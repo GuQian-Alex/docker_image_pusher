@@ -1,5 +1,5 @@
 nginx
 #支持私库
-nvidia/cuda:11.3.0-cudnn8-runtime-ubuntu20.04
+nvidia/cuda:11.3-cudnn8-runtime-ubuntu20.04
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
